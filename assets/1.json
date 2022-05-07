@@ -1,0 +1,20 @@
+{
+  "name": "SS WIP 2",
+  "symbol": "LHFC",
+  "image": "1.png",
+  "collection": {"name": "Lake Henry Fishing", "family": "Warlyware"},
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "vvb3zCgcYAvMPYS4YpqCXBQGkJJQfedRSKRxbNWpKVa",
+        "share": 100
+      }
+    ]
+  }
+}
